@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning game development on Unity.</p>
+<p align="left">✨ Creating bugs since 2020. As an engineer with over 3 years of experience in software development (as a freelancer), I have strong knowledge in .NET and C/C++ technologies. My success in providing quality and effective solutions by prioritizing customer satisfaction in the projects I carried out as a freelancer has carried me forward in this field. My passion for technology and my desire to constantly learn encourage me to take part in innovative projects. In the future, I aim to further develop my technological skills by taking an active role in innovative projects.</p>
 
 ###
 
