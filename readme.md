@@ -1,6 +1,6 @@
 # Hi there, I'm Kağan 👋
 
-Welcome to my GitHub profile. I am an Automotive Software Specialist specializing in embedded systems, real-time operating systems (RTOS), and functional safety. 
+Welcome to my GitHub profile.
 
 ## 👨‍💻 About Me
 
